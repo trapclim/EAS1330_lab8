@@ -2,4 +2,6 @@
 
 ## This is a subtitle
 
-*Here is some bold text.*
+*Here is some italic text.*
+
+**This is bold!**
